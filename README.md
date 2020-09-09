@@ -1,1 +1,1 @@
-# disentanglement_BSU_dip
+В [данной работе](https://github.com/Gumilevski/disentanglement_BSU_dip/blob/master/%D0%B4%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC.pdf) рассматривается задача получения распутанных представлений методами обучения без учителя для дальнейшей классификации качества клубней картофеля.
